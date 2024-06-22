@@ -250,7 +250,7 @@ generateIIASASubmission <- function(mifs = ".", # nolint cyclocomp_linter
 
 # resolve the weight column if present else return
 .resolveWeights <- function(dataframe, weightSource) {
-  if (all(dataframe$piam_weight == "NULL") || all(is.na(dataframe$piam_weight))) {
+  if (all(is.null(dataframe$piam_weight)) || all(is.na(dataframe$piam_weight))) {
     message("No weights to resolve. Skipping.")
     return(dataframe)
   } else {
