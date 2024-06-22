@@ -1,4 +1,4 @@
-Variable;Unit;piam_variable;piam_unit;piam_factor;Definition;Comment;internal_comment;exclude_remind2_validation
+variable;unit;piam_variable;piam_unit;piam_factor;Definition;Comment;internal_comment;exclude_remind2_validation
 Annual Refurbishment Rate|Residential;% of housing stock;;;;;not modelled;;
 Economy|Number of households;million households;;;;;not modelled;;
 Economy|Population;million people;Population;million;1;;;;
