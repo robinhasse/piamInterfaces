@@ -24,7 +24,7 @@ Final Energy|Residential and Commercial|Solids;EJ/yr;FE|Buildings|Solids;EJ/yr;1
 Final Energy|Residential and Commercial|Solids|Biomass;EJ/yr;FE|Buildings|Solids|Biomass;EJ/yr;1;;;;
 Final Energy|Residential and Commercial|Solids|Fossil;EJ/yr;FE|Buildings|Solids|Fossil;EJ/yr;1;;;;
 Final Energy|Residential and Commercial|non-Heating|Electricity;EJ/yr;FE|Buildings|non-Heating|Electricity|Conventional;EJ/yr;1;;;;
-Final Energy|Residential and Commercial|Space and Water Heating;EJ /yr;FE|Buildings|Heating;EJ /yr;1;;;;
+Final Energy|Residential and Commercial|Space and Water Heating;EJ/yr;FE|Buildings|Heating;EJ/yr;1;;;;
 Final Energy|Residential and Commercial|Space and Water Heating|Electricity;EJ/yr;FE|Buildings|Heating|Electricity|Heat pump;EJ/yr;1;;;;
 Final Energy|Residential and Commercial|Space and Water Heating|Electricity;EJ/yr;FE|Buildings|Heating|Electricity|Resistance;EJ/yr;1;;;;
 Final Energy|Residential and Commercial|Space and Water Heating|Gases;EJ/yr;FE|Buildings|Heating|Gases;EJ/yr;1;;;;
@@ -89,9 +89,9 @@ Total Energy System Cost|Residential|Investments;billion EUR_2020;;;;;not modell
 Total Energy System Cost|Residential|Investments|Energy Equipment;billion EUR_2020;;;;;not modelled;;
 Total Energy System Cost|Residential|Investments|New Constructions;billion EUR_2020;;;;;not modelled;;
 Total Energy System Cost|Residential|Investments|Renovation of old constructions;billion EUR_2020;;;;;not modelled;;
-Useful Energy|Residential and Commercial|Space and Water Heating;EJ /yr;UE|Buildings|Heating;EJ /yr;1;;;;
-Useful Energy|Residential|Space and Water Heating;EJ /yr;;;;;not modelled but post-processed;;
+Useful Energy|Residential and Commercial|Space and Water Heating;EJ/yr;UE|Buildings|Heating;EJ/yr;1;;;;
+Useful Energy|Residential|Space and Water Heating;EJ/yr;;;;;not modelled but post-processed;;
 Useful Energy|Residential|Cooking;EJ/yr;;;;;;;
 Useful Energy|Residential|Space Cooling;EJ/yr;;;;;;;
-Useful Energy|Residential|Space Heating;EJ /yr;;;;;;;
+Useful Energy|Residential|Space Heating;EJ/yr;;;;;;;
 Useful Energy|Residential|Water Heating;EJ/yr;;;;;;;
